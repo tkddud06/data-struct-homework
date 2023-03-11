@@ -26,7 +26,8 @@
           "message": 5
         }
       }
-    }, //C 컴파일
+    },
+    //C 컴파일
     {
       "label": "save and compile for C",
       "command": "gcc",
